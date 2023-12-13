@@ -3,7 +3,7 @@ Simple hello-world repository.
 
 ## Introduction
 I will use this to practice creating a repository.
-*** bold ***
-** italics **
+**bold**
+*italics*
 1. Numbering
 
